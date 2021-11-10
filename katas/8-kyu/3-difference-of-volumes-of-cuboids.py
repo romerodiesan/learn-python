@@ -15,7 +15,7 @@ If you can, try writing it in one line of code.
 Link: https://www.codewars.com/kata/58cb43f4256836ed95000f97/
 """
 
-# prod should return the product of an integer, array or list
+# prod should return the product of an integer, array or listi
 
 from numpy import prod
 
